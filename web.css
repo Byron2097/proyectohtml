@@ -44,9 +44,11 @@ header h1{
 }
 
 .card img{
-    width:150px;
+    width:320px;
+    height:auto;
     display:block;
     margin:0 auto 20px;
+}
 }
 
 .card h2{
